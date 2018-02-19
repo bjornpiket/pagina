@@ -1,0 +1,62 @@
+
+html, body {
+  margin: 0px;
+  padding: 0px;
+  font-size: 15px;
+  font-family: "veranda", Arial, Helvetica, sans-serif;
+  background-color: #F96F06;
+  color:#FFFFFF;  
+  link:#0000FF;
+  vlink:#0000FF;
+  }
+
+div#container {
+  width: 1000px;
+  margin: auto;
+  margin-top: 50px;
+  }
+
+div#header {
+  width: 800px;
+  height: 53px;
+  margin: auto;
+  background-image: url('images/header_bg.png');
+  }
+  
+div#logo {
+  width: 209px;
+  height: 53px;
+  background-image: logo.img
+  margin-left: 50px;
+  }
+    
+div#content {
+  width: 800px;
+  margin: auto;
+  display: table;
+  }
+  
+div#menu {
+  width: 200px;
+  float: left;
+  }
+    
+div#inhoud {
+  width: 600px;
+  float: right;
+  }
+    
+div#footer {
+  width: 800px;
+  height: 53px;
+  margin: auto;
+  background-image: url('images/header_bg.png') ;
+  }
+  
+div#footer_links {
+  float: left;
+  }
+    
+div#footer_rechts {
+  float: right;
+  }
